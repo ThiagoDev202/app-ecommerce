@@ -2,8 +2,7 @@
 **Frontend:**<br>
 - React<br>
 - Redux<br>
-- React Bootstrap<br>
-<br>
+- React Bootstrap<br><br>
 **Backend:**<br>
 - Node<br>
 - Express<br>
