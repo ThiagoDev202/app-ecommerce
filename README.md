@@ -1,4 +1,13 @@
 **MERN Stack**<br>
-**Frontend** - React | Redux | React Bootstrap<br>
-**Backend** - Node | Express | MongoDB | mongoose
- - JWT | Stripe
+**Frontend:**<br>
+- React<br>
+- Redux<br>
+- React Bootstrap<br>
+<br>
+**Backend:**<br>
+- Node<br>
+- Express<br>
+- MongoDB<br>
+- mongoose<br>
+- JWT<br>
+- Stripe
